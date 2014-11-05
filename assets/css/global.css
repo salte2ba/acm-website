@@ -14,3 +14,10 @@ body{
 }
 
 /* Media Quiries (spelled that wrong)*/
+
+/* section Styling */
+#section-about{
+  width: 500px;
+  overflow: hidden;
+}
+
