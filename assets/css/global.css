@@ -21,3 +21,10 @@ body{
   overflow: hidden;
 }
 
+/* section about Brittany */
+#about-brit{
+  position: relative;
+  border-color: red;
+  width: 300px;
+}
+
