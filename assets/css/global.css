@@ -1,30 +1,19 @@
-/* Tag Styling */
+
 body{
   position: relative;
 }
-
-
-/* Class Styling */
-
-
-/* ID Styling */
-#about-div{
-  position: relative;
-  width: 300px;
+/* Changes the width of the section */
+section{
+  width:100%;
 }
-
-/* Media Quiries (spelled that wrong)*/
-
-/* section Styling */
-#section-about{
-  width: 500px;
-  overflow: hidden;
+/*updates the about div */
+#about{
+  width:25%;
+  float:left;
+  display: inline;
 }
-
-/* section about Brittany */
-#about-brit{
-  position: relative;
-  border-color: red;
-  width: 300px;
+/* the first div was different than the others so had to add some padding */
+.media-brittany{
+  padding-top: 15px;
 }
 
