@@ -3,8 +3,10 @@ body{
   position: relative;
 }
 /* Changes the width of the section */
-section{
+#section-about{
   width:100%;
+  float: center;
+  display: inline;
 }
 /*updates the about div */
 #about{
@@ -14,6 +16,15 @@ section{
 }
 /* the first div was different than the others so had to add some padding */
 .media-brittany{
-  padding-top: 15px;
+  padding: 10px, 10px, 0px, 0px;
+}
+.media-marcus {
+  
+}
+.media-jake {
+
+}
+.media-nick {
+
 }
 
