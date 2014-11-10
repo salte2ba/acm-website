@@ -1,2 +1,6 @@
-Making some changes just to get some experience. Hopefully we can get the
-site up and running eventually
+TODO!
+
+-fix the margin of the pictures
+-add all the needed info
+-make it look pretty
+-get the sections to correspond with their tags (Fundraiser to fundraiser, etc.)
