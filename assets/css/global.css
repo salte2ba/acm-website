@@ -1,19 +1,84 @@
 
+
 body{
   position: relative;
 }
+
 /* Changes the width of the section */
 section{
-  width:100%;
+  width: 100%;
 }
+
 /*updates the about div */
 #about{
-  width:25%;
-  float:left;
+  width: 25%;
+  float: left;
   display: inline;
 }
+
 /* the first div was different than the others so had to add some padding */
 .media-brittany{
   padding-top: 15px;
 }
 
+
+/* carousel */
+.div-carousel-caption{
+	background-color: #d1d1d1;
+	opacity: 50%;
+
+}
+
+#carousel-container{
+/*	position:;
+	height: 80%;*/
+	margin: auto;
+	margin-bottom: 500px;
+}
+
+.picture{
+	width: auto !important;
+	height: auto !important;
+	max-height: 600px;
+	max-width: 600px;
+}
+/* end carousel */
+
+
+/* nav */
+nav{
+	position: relative;
+	background-color: #91b5ff;
+}
+
+nav > ul > li{
+/*	position: absolute;*/
+	list-style: none;
+}
+
+nav > ul > li{
+	position: relative;
+	display: block;
+/*	float: left;
+*/}
+
+nav > ul li{
+	width: 25%;
+}
+
+nav > ul > li a{
+	color: white;
+}
+
+nav > ul > li > ul{
+	display: none;
+}
+
+nav > ul > li:hover > ul{
+	position: relative;
+	display: block;
+	list-style: none;
+	text-align: center;
+	width: 25%;
+}
+/* end nav */
