@@ -1,7 +1,7 @@
 acm-website
 ===========
 
-Please start making branchs. 
+Please start making branches. 
 
 Thanks, 
 Marcus Shepherd
