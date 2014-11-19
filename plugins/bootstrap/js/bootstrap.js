@@ -418,7 +418,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
             that.$element.trigger(slidEvent)
           }, 0)
         })
-        .emulateTransitionEnd($active.css('transition-duration').slice(0, -1) * 1000)
+        .emulateTransitionEnd($active.css('transition-duration').slice(0, -1) * 500)
     } else {
       $active.removeClass('active')
       $next.addClass('active')
