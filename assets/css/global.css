@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 body{
 	width: 100%;
+=======
+
+body {
+  position: relative;
+>>>>>>> Changed some CSS and the read me
 }
 
 /* Changes the width of the section */
+<<<<<<< HEAD
 <<<<<<< HEAD
 section{
   width: 100%;
@@ -10,12 +17,20 @@ section{
 #section-about{
   width:100%;
   float: center;
+=======
+#section-about {
+  width: 100%;
+>>>>>>> Changed some CSS and the read me
   display: inline;
 >>>>>>> added some stuff and trying to fix the margin in the pictures
 }
 
 /*updates the about div */
+<<<<<<< HEAD
 #about{
+=======
+#about {
+>>>>>>> Changed some CSS and the read me
   width: 25%;
   float: left;
   display: inline;
@@ -23,7 +38,7 @@ section{
 
 /* the first div was different than the others so had to add some padding */
 .media-brittany{
-  padding: 10px, 10px, 0px, 0px;
+  
 }
 
 
