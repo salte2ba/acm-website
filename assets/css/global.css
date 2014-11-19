@@ -3,8 +3,15 @@ body{
 }
 
 /* Changes the width of the section */
+<<<<<<< HEAD
 section{
   width: 100%;
+=======
+#section-about{
+  width:100%;
+  float: center;
+  display: inline;
+>>>>>>> added some stuff and trying to fix the margin in the pictures
 }
 
 /*updates the about div */
@@ -16,7 +23,16 @@ section{
 
 /* the first div was different than the others so had to add some padding */
 .media-brittany{
-  padding-top: 15px;
+  padding: 10px, 10px, 0px, 0px;
+}
+.media-marcus {
+  
+}
+.media-jake {
+
+}
+.media-nick {
+
 }
 
 
