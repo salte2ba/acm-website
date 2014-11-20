@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 body{
 	width: 100%;
 =======
@@ -6,9 +7,19 @@ body{
 body {
   position: relative;
 >>>>>>> Changed some CSS and the read me
+=======
+
+body {
+  position: relative;
+=======
+body{
+	width: 100%;
+>>>>>>> 9bb8bb2349f5f0d15a9769e9af1773938471d147
+>>>>>>> 17db140622f1e7a760a59983e431ca22574512ec
 }
 
 /* Changes the width of the section */
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 section{
@@ -23,14 +34,30 @@ section{
 >>>>>>> Changed some CSS and the read me
   display: inline;
 >>>>>>> added some stuff and trying to fix the margin in the pictures
+=======
+#section-about {
+  width: 100%;
+  display: inline;
+=======
+section{
+  width: 100%;
+>>>>>>> 9bb8bb2349f5f0d15a9769e9af1773938471d147
+>>>>>>> 17db140622f1e7a760a59983e431ca22574512ec
 }
 
 /*updates the about div */
+<<<<<<< HEAD
 <<<<<<< HEAD
 #about{
 =======
 #about {
 >>>>>>> Changed some CSS and the read me
+=======
+#about {
+=======
+#about{
+>>>>>>> 9bb8bb2349f5f0d15a9769e9af1773938471d147
+>>>>>>> 17db140622f1e7a760a59983e431ca22574512ec
   width: 25%;
   float: left;
   display: inline;
@@ -42,7 +69,12 @@ section{
 }
 
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 17db140622f1e7a760a59983e431ca22574512ec
 /* carousel */
 .div-carousel-caption{
 	background-color: #d1d1d1;
@@ -111,3 +143,4 @@ nav > ul > li{
 }
 
 /* end nav */
+>>>>>>> 9bb8bb2349f5f0d15a9769e9af1773938471d147
